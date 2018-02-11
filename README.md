@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data-Course-Project
+# Getting and Cleaning Data Course Project
 
 ## This is the course project of Venus Marie A. Gaela for Getting and Cleaning Data. The R script called run_analysis.R does the following:
 
