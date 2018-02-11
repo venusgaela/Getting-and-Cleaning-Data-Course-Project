@@ -1,6 +1,6 @@
 # Code Book
 
-### This is the code book for the file tidy.txt
+### This is the code book for the file secTidySet.txt
 
 ## Identifiers
 * subject - The ID of the test subject
