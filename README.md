@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Course Project
 
-## This is the course project of Venus Marie A. Gaela for Getting and Cleaning Data. The R script called run_analysis.R does the following:
+This is the course project of Venus Marie A. Gaela for Getting and Cleaning Data. The R script called run_analysis.R does the following:
 
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
